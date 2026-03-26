@@ -152,7 +152,7 @@ function App() {
 
 import { useState } from "react";
 
-function app() {
+function App() {
   const [text, setText] = useState("");
 
   return (
@@ -163,7 +163,7 @@ function app() {
   );
 }
 
-function app() {
+function App() {
   const users = ["Ali", "Vali", "Sami"];
 
   return (
